@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304475689442",
+    "firebase_url": "https://pen-pal-sign-up.firebaseio.com",
+    "project_id": "pen-pal-sign-up",
+    "storage_bucket": "pen-pal-sign-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304475689442:android:e52ee35e59649e42bc69bb",
+        "android_client_info": {
+          "package_name": "com.karthi.PenPal_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304475689442-romd1qj9pd17908g2lkgnbrp0dj8lpk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2IWBzTIcSE7BpFRstM-x3dwVHJ3z0d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304475689442-romd1qj9pd17908g2lkgnbrp0dj8lpk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
